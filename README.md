@@ -16,7 +16,7 @@
     <img width="30" src="images/gmail.svg">
   </a>
   &nbsp;&nbsp;
-  <a href="https://www.instagram.com/" title="Instagram">
+  <a href="https://www.instagram.com/sina_alinejad_81" title="Instagram">
     <img width="30" src="images/instagram.svg">
   </a>
   &nbsp;&nbsp;
