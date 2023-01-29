@@ -4,7 +4,7 @@
 </h3>
 
 <p align="center">
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=451BF7&background=FF2D8300&center=true&width=435&lines=An+AI+Enthusiast)](https://git.io/typing-svg)
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=451BF7&background=FF2D8300&center=true&width=435&lines=An+AI+Enthusiast" alt="my-intro" />
 </p>
 
 <p align="center">
