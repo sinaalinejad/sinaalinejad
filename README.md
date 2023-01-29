@@ -88,7 +88,7 @@
 
 ## ⭐️ Projects and Contributions
 
-### Computer Vision & Image Processing
+<!-- ### Computer Vision & Image Processing -->
   <!-- <p align="center">
   <a href="https://github.com/ali-sedaghi/RetinaFace-Emotion-Detection">
     <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ali-sedaghi&repo=RetinaFace-Emotion-Detection&theme=dark&title_color=FA8B00&icon_color=FA8B00&text_color=FDFDFD&hide_border=true">
